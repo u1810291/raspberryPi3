@@ -3,3 +3,5 @@ db.sqlite3
 core/__pycache__/
 .env
 node_modules
+gateway/__pycache__/
+frontend/__pycache__/
